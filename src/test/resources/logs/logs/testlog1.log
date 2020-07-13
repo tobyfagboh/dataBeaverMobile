@@ -1,0 +1,6 @@
+2018-11-28 18:19:35,790 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2018-11-28 18:19:35,795 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2018-11-28 18:20:38,073 [main] INFO devpinoyLogger - App opened
+2018-11-28 18:21:03,099 [main] INFO devpinoyLogger - user email passed into text box
+2018-11-28 18:21:33,483 [main] INFO devpinoyLogger - user password passed into text box
+2018-11-28 18:21:36,930 [main] INFO devpinoyLogger - login button clicked

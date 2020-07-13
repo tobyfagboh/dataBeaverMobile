@@ -1,0 +1,14 @@
+2018-11-28 16:16:56,258 [main] INFO log4j_demo - This is info
+2018-11-28 16:16:56,264 [main] WARN log4j_demo - This is warn
+2018-11-28 16:16:56,264 [main] ERROR log4j_demo - This is error
+2018-11-28 16:16:56,264 [main] FATAL log4j_demo - This is fatal
+2018-11-28 16:19:29,489 [main] DEBUG log4j_demo - This is debug
+2018-11-28 16:19:29,495 [main] INFO log4j_demo - This is info
+2018-11-28 16:19:29,496 [main] WARN log4j_demo - This is warn
+2018-11-28 16:19:29,496 [main] ERROR log4j_demo - This is error
+2018-11-28 16:19:29,496 [main] FATAL log4j_demo - This is fatal
+2018-11-28 16:19:55,425 [main] DEBUG log4j_demo - This is debug
+2018-11-28 16:19:55,431 [main] INFO log4j_demo - This is info
+2018-11-28 16:19:55,431 [main] WARN log4j_demo - This is warn
+2018-11-28 16:19:55,432 [main] ERROR log4j_demo - This is error
+2018-11-28 16:19:55,433 [main] FATAL log4j_demo - This is fatal

@@ -1,0 +1,4 @@
+Runtime.getRuntime().exec("cmd /c start C:\\SummitechTest\\startappium.bat");
+ 
+"C:\Program Files\nodejs\node.exe" "C:\Users\hp\AppData\Local\Programs\appium-desktop\resources\app\node_modules\appium\build\lib\appium.js"
+

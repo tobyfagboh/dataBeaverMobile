@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+    <test name="Sign Up">
+		<classes>
+			<class name="appiumTest.TestCase.signup" />
+		</classes>
+	</test>
+
+	<test name="Login">
+		<classes>
+			<class name="appiumTest.TestCase.loginTest" />
+		</classes>
+	</test>
+
+	<test name="Timeline">
+		<classes>
+			<class name="appiumTest.TestCase.timeline" />
+		</classes>
+	</test>
+
+	<test name="Virtual Assistance">
+		<classes>
+			<class name="appiumTest.TestCase.virtualAssistance" />
+		</classes>
+	</test>
+
+	<test name="Share">
+		<classes>
+			<class name="appiumTest.TestCase.share" />
+		</classes>
+	</test>
+
+	<test name="Connection">
+		<classes>
+			<class name="appiumTest.TestCase.connection" />
+		</classes>
+	</test>
+  
+  
+</suite> <!-- Suite -->

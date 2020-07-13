@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">Suite</th></tr>
+<tr><td><a href="#t0">Sign Up</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">29,121</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t1">Login</a></td><td class="num">2</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">78,174</td><td></td><td></td></tr>
+<tr><td><a href="#t2">Timeline</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">65,263</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t3">Virtual Assistance</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">115,603</td><td></td><td></td></tr>
+<tr><td><a href="#t4">Share</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">64,124</td><td></td><td></td></tr>
+<tr class="stripe"><td><a href="#t5">Connection</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">66,496</td><td></td><td></td></tr>
+<tr><th>Total</th><th class="num">4</th><th class="num">0</th><th class="num">0</th><th class="num attn">3</th><th class="num">418,781</th><th colspan="2"></th></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Sign Up &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">appiumTest.TestCase.signup</td><td><a href="#m0">signupTest</a></td><td rowspan="1">1585748134569</td><td rowspan="1">17600</td></tr></tbody>
+<tbody id="t1"><tr><th colspan="4">Login &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">appiumTest.TestCase.loginTest</td><td><a href="#m1">InvalidLoginTest</a></td><td rowspan="1">1585748166178</td><td rowspan="1">30475</td></tr><tr class="passedeven"><td><a href="#m2">ValidLoginTest</a></td><td rowspan="1">1585748196658</td><td rowspan="1">33753</td></tr></tbody>
+<tbody id="t2"><tr><th colspan="4">Timeline &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">appiumTest.TestCase.timeline</td><td><a href="#m3">TimelineTest</a></td><td rowspan="1">1585748242379</td><td rowspan="1">53343</td></tr></tbody>
+<tbody id="t3"><tr><th colspan="4">Virtual Assistance &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">appiumTest.TestCase.virtualAssistance</td><td><a href="#m4">VirtualAssistance</a></td><td rowspan="1">1585748310174</td><td rowspan="1">101216</td></tr></tbody>
+<tbody id="t4"><tr><th colspan="4">Share &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">appiumTest.TestCase.share</td><td><a href="#m5">shareConnection</a></td><td rowspan="1">1585748424720</td><td rowspan="1">50832</td></tr></tbody>
+<tbody id="t5"><tr><th colspan="4">Connection &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">appiumTest.TestCase.connection</td><td><a href="#m6">payerConnection</a></td><td rowspan="1">1585748491066</td><td rowspan="1">51003</td></tr></tbody>
+</table>
+<h2>Sign Up</h2><h3 id="m0">appiumTest.TestCase.signup#signupTest</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+	at org.openqa.selenium.By$ByXPath.&lt;init&gt;(By.java:339)
+	at org.openqa.selenium.By.xpath(By.java:92)
+	at appiumTest.TestCase.signup.signupTest(signup.java:39)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+... Removed 27 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Login</h2><h3 id="m1">appiumTest.TestCase.loginTest#InvalidLoginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">appiumTest.TestCase.loginTest#ValidLoginTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Timeline</h2><h3 id="m3">appiumTest.TestCase.timeline#TimelineTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Virtual Assistance</h2><h3 id="m4">appiumTest.TestCase.virtualAssistance#VirtualAssistance</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:48&apos;
+System info: host: &apos;2015s-MBP&apos;, ip: &apos;fe80:0:0:0:14fd:134b:8c4f:85f7%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.2&apos;, java.version: &apos;13.0.1&apos;
+Driver info: com.microsoft.appcenter.appium.EnhancedAndroidDriver
+Capabilities {app: /Users/netowsolutions/Docum..., appActivity: com.mycareai.MainActivity, appPackage: com.mycareai, automationName: uiautomator2, databaseEnabled: false, desired: {app: /Users/netowsolutions/Docum..., appActivity: com.mycareai.MainActivity, appPackage: com.mycareai, automationName: uiautomator2, deviceName: Android Device, newCommandTimeout: 2913, platformName: android}, deviceApiLevel: 27, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 400, deviceScreenSize: 1080x2160, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 2913, pixelRatio: 2.5, platform: LINUX, platformName: LINUX, platformVersion: 8.1.0, statBarHeight: 60, takesScreenshot: true, viewportRect: {height: 1980, left: 0, top: 60, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 81a3d3e1-3196-4b75-aabe-25b0723b0621
+*** Element info: {Using=xpath, value=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[1]/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.widget.HorizontalScrollView/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]/android.view.ViewGroup/android.widget.TextView}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:218)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:152)
+	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElementByXPath(AndroidDriver.java:1)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
+	at appiumTest.TestCase.virtualAssistance.VirtualAssistance(virtualAssistance.java:78)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+... Removed 32 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Share</h2><h3 id="m5">appiumTest.TestCase.share#shareConnection</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Connection</h2><h3 id="m6">appiumTest.TestCase.connection#payerConnection</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+	at org.openqa.selenium.By$ByXPath.&lt;init&gt;(By.java:339)
+	at org.openqa.selenium.By.xpath(By.java:92)
+	at appiumTest.TestCase.connection.payerConnection(connection.java:67)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
+... Removed 27 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

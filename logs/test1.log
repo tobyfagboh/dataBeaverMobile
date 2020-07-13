@@ -1,0 +1,562 @@
+2020-02-04 14:59:37,131 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-04 14:59:37,138 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-04 15:00:06,148 [main] INFO devpinoyLogger - App opened
+2020-02-04 15:00:15,533 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-04 15:00:24,224 [main] INFO devpinoyLogger - user email passed into text box
+2020-02-04 15:00:27,317 [main] INFO devpinoyLogger - user password passed into text box
+2020-02-04 15:00:30,091 [main] INFO devpinoyLogger - log in button clicked
+2020-02-04 15:00:30,092 [main] INFO devpinoyLogger - Login not successful
+2020-02-04 15:01:02,089 [main] INFO devpinoyLogger - App opened
+2020-02-04 15:01:11,503 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-04 15:01:21,168 [main] INFO devpinoyLogger - user email passed into text box
+2020-02-04 15:01:26,720 [main] INFO devpinoyLogger - user password passed into text box
+2020-02-04 15:01:29,458 [main] INFO devpinoyLogger - log in button clicked
+2020-02-04 15:01:29,461 [main] INFO devpinoyLogger - Login is successful
+2020-02-05 12:57:55,699 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-05 12:57:55,706 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-05 12:58:13,090 [main] INFO devpinoyLogger - App opened
+2020-02-05 12:58:18,509 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-05 12:58:23,212 [main] INFO devpinoyLogger - user email passed into text box
+2020-02-05 12:58:26,190 [main] INFO devpinoyLogger - user password passed into text box
+2020-02-05 12:58:26,946 [main] INFO devpinoyLogger - log in button clicked
+2020-02-05 12:58:26,946 [main] INFO devpinoyLogger - Login not successful
+2020-02-05 12:58:43,684 [main] INFO devpinoyLogger - App opened
+2020-02-05 12:58:48,526 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-05 12:58:53,231 [main] INFO devpinoyLogger - user email passed into text box
+2020-02-05 12:58:56,387 [main] INFO devpinoyLogger - user password passed into text box
+2020-02-05 12:58:57,149 [main] INFO devpinoyLogger - log in button clicked
+2020-02-05 12:58:57,149 [main] INFO devpinoyLogger - Login is successful
+2020-02-05 13:08:30,478 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-05 13:08:30,490 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-05 13:08:57,483 [main] INFO devpinoyLogger - App opened
+2020-02-05 13:09:04,044 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-05 13:12:08,906 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-05 13:12:08,913 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-05 13:12:26,157 [main] INFO devpinoyLogger - App opened
+2020-02-05 13:12:31,721 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-05 13:13:50,966 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-05 13:13:50,973 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-05 13:14:06,978 [main] INFO devpinoyLogger - App opened
+2020-02-05 13:14:12,427 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-05 13:17:16,689 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-05 13:17:16,694 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-05 13:17:31,906 [main] INFO devpinoyLogger - App opened
+2020-02-05 13:17:37,408 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-05 13:25:36,767 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-05 13:25:36,773 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-05 13:25:54,353 [main] INFO devpinoyLogger - App opened
+2020-02-05 13:25:59,144 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-05 23:12:10,959 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-05 23:12:10,966 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-05 23:12:28,007 [main] INFO devpinoyLogger - App opened
+2020-02-05 23:12:35,874 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-07 11:17:31,311 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-07 11:17:31,319 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-07 11:17:41,773 [main] INFO devpinoyLogger - App opened
+2020-02-07 11:17:45,500 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-07 11:55:13,059 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-07 11:55:13,066 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-07 11:55:22,641 [main] INFO devpinoyLogger - App opened
+2020-02-07 11:55:27,561 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-07 12:02:00,367 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-07 12:02:00,373 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-07 12:02:10,388 [main] INFO devpinoyLogger - App opened
+2020-02-07 12:02:14,701 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-07 13:41:28,564 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-07 13:41:28,571 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-07 13:41:38,143 [main] INFO devpinoyLogger - App opened
+2020-02-07 13:41:42,317 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-07 14:09:37,883 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-07 14:09:37,890 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-07 14:09:48,386 [main] INFO devpinoyLogger - App opened
+2020-02-07 14:09:53,409 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-07 16:11:51,053 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-07 16:11:51,063 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-07 16:11:51,080 [main] DEBUG devpinoyLogger - /Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-02-07 16:12:04,013 [main] INFO devpinoyLogger - App opened
+2020-02-07 16:12:08,128 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-07 16:12:45,582 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-07 16:12:45,588 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-07 16:12:45,604 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-02-07 16:12:57,697 [main] INFO devpinoyLogger - App opened
+2020-02-07 16:13:02,280 [main] INFO devpinoyLogger - I already have an account clicked
+2020-02-12 14:37:57,620 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-02-12 15:29:00,725 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-12 15:29:00,729 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-12 15:29:00,756 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-02-12 15:29:40,985 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-02-12 16:21:54,942 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-12 16:21:54,951 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-12 16:21:54,972 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-02-12 16:22:33,352 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-02-14 10:57:01,760 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-02-14 10:57:01,766 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-02-14 10:57:01,778 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-03-31 18:04:28,700 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-03-31 18:04:44,901 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-03-31 18:04:44,904 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-03-31 18:04:44,930 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-03-31 18:04:56,771 [main] INFO devpinoyLogger - App opened
+2020-03-31 18:05:03,390 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:19:22,384 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:19:35,029 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 08:19:35,030 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 08:19:35,046 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:19:45,988 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:19:52,014 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:31:48,581 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:31:58,630 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 08:31:58,634 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 08:31:58,652 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:32:08,874 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:32:14,785 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:32:21,686 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 08:32:24,786 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 08:32:27,667 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 08:32:27,668 [main] INFO devpinoyLogger - Login not successful
+2020-04-01 08:32:27,678 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:32:40,061 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:32:45,983 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:32:52,569 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 08:32:55,406 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 08:32:56,023 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 08:32:59,028 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 08:54:34,301 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:54:44,507 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 08:54:44,512 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 08:54:44,544 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:54:55,517 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:55:05,906 [main] INFO devpinoyLogger - Lets Get Started clicked
+2020-04-01 08:55:05,990 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:55:17,520 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 08:55:17,523 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 08:55:17,528 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:55:30,975 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:55:40,755 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:55:47,501 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 08:55:50,456 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 08:55:52,995 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 08:55:52,996 [main] INFO devpinoyLogger - Login not successful
+2020-04-01 08:55:53,005 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:56:04,888 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:56:17,546 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:56:24,474 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 08:56:27,137 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 08:56:29,698 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 08:56:32,703 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 08:56:32,864 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:56:43,119 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 08:56:43,122 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 08:56:43,127 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:56:54,327 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:57:03,343 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:57:09,758 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 08:57:12,598 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 08:57:15,199 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 08:57:22,393 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 08:57:23,620 [main] INFO devpinoyLogger - Timeline clicked
+2020-04-01 08:57:30,245 [main] INFO devpinoyLogger - Skip button clicked
+2020-04-01 08:57:31,145 [main] INFO devpinoyLogger - Health history clicked
+2020-04-01 08:57:34,142 [main] INFO devpinoyLogger - Skip button clicked
+2020-04-01 08:57:35,347 [main] INFO devpinoyLogger - Claims drop down button clicked
+2020-04-01 08:57:36,352 [main] INFO devpinoyLogger - View Claims is clicked
+2020-04-01 08:57:37,467 [main] INFO devpinoyLogger - Magret is Displayed
+2020-04-01 08:57:37,487 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:57:47,218 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 08:57:47,219 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 08:57:47,222 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:57:59,031 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:58:05,002 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:58:08,790 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 08:58:12,011 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 08:58:14,497 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 08:58:19,281 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 08:58:20,365 [main] INFO devpinoyLogger - Virtual Assistance Clicked
+2020-04-01 08:58:26,850 [main] INFO devpinoyLogger - Successfully laaunched Virtual Assistancel
+2020-04-01 08:58:27,566 [main] INFO devpinoyLogger - Enter text successful
+2020-04-01 08:58:28,539 [main] INFO devpinoyLogger - Send key clicked
+2020-04-01 08:58:33,693 [main] INFO devpinoyLogger - Yes button clicked
+2020-04-01 08:58:41,055 [main] INFO devpinoyLogger - Yes button clicked again
+2020-04-01 08:58:48,639 [main] INFO devpinoyLogger - Lab Data clicked
+2020-04-01 08:59:19,124 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:59:29,532 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 08:59:29,533 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 08:59:29,536 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 08:59:39,916 [main] INFO devpinoyLogger - App opened
+2020-04-01 08:59:49,318 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 08:59:58,308 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 09:00:01,325 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 09:00:01,944 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 09:00:11,493 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 09:00:12,493 [main] INFO devpinoyLogger - Share button clicked
+2020-04-01 09:00:14,046 [main] INFO devpinoyLogger - Add to contact button clicked
+2020-04-01 09:00:15,102 [main] INFO devpinoyLogger - Yes, I understand button clicked
+2020-04-01 09:00:15,354 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:00:26,766 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 09:00:26,767 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 09:00:26,768 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:00:37,716 [main] INFO devpinoyLogger - App opened
+2020-04-01 09:00:43,345 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 09:00:47,171 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 09:00:50,356 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 09:00:52,949 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 09:00:59,940 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 09:01:01,044 [main] INFO devpinoyLogger - Make Connection button clicked
+2020-04-01 09:01:02,096 [main] INFO devpinoyLogger - Payer Button clicked
+2020-04-01 09:01:09,999 [main] INFO devpinoyLogger - Add Payer Button clicked
+2020-04-01 09:01:10,700 [main] INFO devpinoyLogger - Edifecs Payer clicked
+2020-04-01 09:01:12,000 [main] INFO devpinoyLogger - Connect button clicked
+2020-04-01 09:01:13,542 [main] INFO devpinoyLogger - Confirm  Connect button clicked
+2020-04-01 09:22:28,645 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:22:41,308 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 09:22:41,316 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 09:22:41,343 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:22:55,283 [main] INFO devpinoyLogger - App opened
+2020-04-01 09:23:10,647 [main] INFO devpinoyLogger - Lets Get Started clicked
+2020-04-01 09:23:11,042 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:23:26,304 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 09:23:26,309 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 09:23:26,315 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:23:40,460 [main] INFO devpinoyLogger - App opened
+2020-04-01 09:23:51,874 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 09:23:56,689 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 09:23:58,135 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 09:23:59,090 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 09:23:59,091 [main] INFO devpinoyLogger - Login not successful
+2020-04-01 09:23:59,103 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:24:11,961 [main] INFO devpinoyLogger - App opened
+2020-04-01 09:24:22,459 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 09:24:28,439 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 09:24:31,395 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 09:24:33,888 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 09:24:36,891 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 09:24:36,927 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:24:50,751 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 09:24:50,755 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 09:24:50,759 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:25:24,780 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:25:35,251 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 09:25:35,253 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 09:25:35,256 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:25:47,655 [main] INFO devpinoyLogger - App opened
+2020-04-01 09:25:55,300 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 09:25:57,670 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 09:25:59,053 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 09:25:59,931 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 09:26:06,426 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 09:26:07,556 [main] INFO devpinoyLogger - Virtual Assistance Clicked
+2020-04-01 09:26:13,240 [main] INFO devpinoyLogger - Successfully laaunched Virtual Assistancel
+2020-04-01 09:26:13,934 [main] INFO devpinoyLogger - Enter text successful
+2020-04-01 09:26:14,681 [main] INFO devpinoyLogger - Send key clicked
+2020-04-01 09:26:20,225 [main] INFO devpinoyLogger - Yes button clicked
+2020-04-01 09:26:26,449 [main] INFO devpinoyLogger - Yes button clicked again
+2020-04-01 09:26:35,745 [main] INFO devpinoyLogger - Lab Data clicked
+2020-04-01 09:27:06,392 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:27:16,499 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 09:27:16,500 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 09:27:16,502 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:27:28,799 [main] INFO devpinoyLogger - App opened
+2020-04-01 09:27:35,488 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 09:27:42,269 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 09:27:45,439 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 09:27:48,038 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 09:27:56,156 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 09:27:57,283 [main] INFO devpinoyLogger - Share button clicked
+2020-04-01 09:27:58,679 [main] INFO devpinoyLogger - Add to contact button clicked
+2020-04-01 09:27:59,760 [main] INFO devpinoyLogger - Yes, I understand button clicked
+2020-04-01 09:27:59,944 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:28:11,348 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 09:28:11,352 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 09:28:11,353 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 09:28:26,999 [main] INFO devpinoyLogger - App opened
+2020-04-01 09:28:37,791 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 09:28:41,692 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 09:28:44,248 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 09:28:47,206 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 09:28:53,100 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 09:28:55,561 [main] INFO devpinoyLogger - Make Connection button clicked
+2020-04-01 09:28:57,090 [main] INFO devpinoyLogger - Payer Button clicked
+2020-04-01 09:28:59,251 [main] INFO devpinoyLogger - Add Payer Button clicked
+2020-04-01 09:29:00,629 [main] INFO devpinoyLogger - Edifecs Payer clicked
+2020-04-01 09:29:01,931 [main] INFO devpinoyLogger - Connect button clicked
+2020-04-01 09:29:03,521 [main] INFO devpinoyLogger - Confirm  Connect button clicked
+2020-04-01 10:02:18,525 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:02:38,584 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:02:38,589 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:02:38,613 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:02:49,293 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:03:19,986 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:03:32,881 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:03:32,884 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:03:32,890 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:03:44,686 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:03:59,741 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:04:09,684 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:04:25,286 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:04:35,994 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:04:35,997 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:04:36,000 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:04:46,392 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:05:01,569 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:05:11,528 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:05:11,530 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:05:11,533 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:05:22,077 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:05:42,794 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:05:52,877 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:05:52,879 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:05:52,881 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:06:06,729 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:06:21,798 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:06:36,441 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:06:36,442 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:06:36,444 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:06:48,575 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:36:15,130 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:36:26,020 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:36:26,024 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:36:26,047 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:36:39,087 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:37:09,446 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:37:22,418 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:37:22,422 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:37:22,428 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:37:37,274 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:37:52,380 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:38:04,475 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:38:41,724 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:38:53,323 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:38:53,329 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:38:53,353 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:39:06,992 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:39:22,091 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:39:35,474 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:41:03,129 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:41:19,164 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 10:41:19,170 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 10:41:19,184 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:41:33,225 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:41:48,806 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:42:02,872 [main] INFO devpinoyLogger - App opened
+2020-04-01 10:50:55,784 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:50:59,835 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:02,542 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:05,150 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:07,585 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:10,027 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:29,345 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:32,193 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:34,376 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:36,610 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:38,899 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:51:41,232 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:52:44,744 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:52:48,502 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:52:50,802 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:52:53,383 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:52:56,494 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:52:58,832 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:55:29,110 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:55:29,884 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:55:29,990 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:55:30,071 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:55:30,125 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:55:30,165 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:56:04,061 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:56:04,985 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:56:05,108 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:56:05,181 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:56:05,233 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:56:05,277 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 10:56:15,141 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 11:39:28,559 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:18:42,679 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:18:56,742 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:19:09,573 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 12:19:09,581 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 12:19:09,602 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:19:20,094 [main] INFO devpinoyLogger - App opened
+2020-04-01 12:19:28,399 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 12:19:33,229 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 12:19:34,604 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 12:19:35,404 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 12:19:35,405 [main] INFO devpinoyLogger - Login not successful
+2020-04-01 12:19:35,411 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:19:46,095 [main] INFO devpinoyLogger - App opened
+2020-04-01 12:19:58,792 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 12:20:05,422 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 12:20:08,323 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 12:20:10,729 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 12:20:13,733 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 12:58:36,758 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:58:47,007 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 12:58:47,011 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 12:58:47,035 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:58:57,493 [main] INFO devpinoyLogger - App opened
+2020-04-01 12:59:08,701 [main] INFO devpinoyLogger - Lets Get Started clicked
+2020-04-01 12:59:08,987 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:59:19,390 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 12:59:19,393 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 12:59:19,398 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 12:59:31,235 [main] INFO devpinoyLogger - App opened
+2020-04-01 12:59:40,542 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 12:59:47,270 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 12:59:50,115 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 12:59:52,875 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 12:59:52,875 [main] INFO devpinoyLogger - Login not successful
+2020-04-01 12:59:52,885 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:00:05,845 [main] INFO devpinoyLogger - App opened
+2020-04-01 13:00:21,407 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 13:00:27,911 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 13:00:31,155 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 13:00:33,513 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 13:00:36,516 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 13:00:36,542 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:00:48,290 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 13:00:48,292 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 13:00:48,296 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:00:58,424 [main] INFO devpinoyLogger - App opened
+2020-04-01 13:01:09,653 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 13:01:15,808 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 13:01:18,809 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 13:01:21,251 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 13:01:35,713 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 13:01:36,797 [main] INFO devpinoyLogger - Timeline clicked
+2020-04-01 13:01:44,750 [main] INFO devpinoyLogger - Skip button clicked
+2020-04-01 13:01:45,626 [main] INFO devpinoyLogger - Health history clicked
+2020-04-01 13:01:48,617 [main] INFO devpinoyLogger - Skip button clicked
+2020-04-01 13:01:49,750 [main] INFO devpinoyLogger - Claims drop down button clicked
+2020-04-01 13:01:50,659 [main] INFO devpinoyLogger - View Claims is clicked
+2020-04-01 13:01:51,793 [main] INFO devpinoyLogger - Magret is Displayed
+2020-04-01 13:01:51,813 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:02:02,474 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 13:02:02,477 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 13:02:02,480 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:02:12,673 [main] INFO devpinoyLogger - App opened
+2020-04-01 13:02:18,651 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 13:02:22,558 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 13:02:25,556 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 13:02:28,006 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 13:02:38,108 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 13:02:39,201 [main] INFO devpinoyLogger - Virtual Assistance Clicked
+2020-04-01 13:02:51,442 [main] INFO devpinoyLogger - Successfully laaunched Virtual Assistancel
+2020-04-01 13:02:52,155 [main] INFO devpinoyLogger - Enter text successful
+2020-04-01 13:02:53,008 [main] INFO devpinoyLogger - Send key clicked
+2020-04-01 13:03:02,051 [main] INFO devpinoyLogger - Yes button clicked
+2020-04-01 13:03:07,348 [main] INFO devpinoyLogger - Yes button clicked again
+2020-04-01 13:03:16,381 [main] INFO devpinoyLogger - Lab Data clicked
+2020-04-01 13:03:47,308 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:03:59,569 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 13:03:59,574 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 13:03:59,577 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:04:10,457 [main] INFO devpinoyLogger - App opened
+2020-04-01 13:04:22,976 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 13:04:31,844 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 13:04:34,850 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 13:04:37,878 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 13:04:49,718 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 13:04:50,854 [main] INFO devpinoyLogger - Share button clicked
+2020-04-01 13:04:53,427 [main] INFO devpinoyLogger - Add to contact button clicked
+2020-04-01 13:04:54,548 [main] INFO devpinoyLogger - Yes, I understand button clicked
+2020-04-01 13:04:54,564 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:05:06,911 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 13:05:06,913 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 13:05:06,914 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 13:05:18,147 [main] INFO devpinoyLogger - App opened
+2020-04-01 13:05:23,827 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 13:05:27,600 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 13:05:33,088 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 13:05:33,942 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 13:05:39,030 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 13:05:40,087 [main] INFO devpinoyLogger - Make Connection button clicked
+2020-04-01 13:05:41,170 [main] INFO devpinoyLogger - Payer Button clicked
+2020-04-01 13:05:42,922 [main] INFO devpinoyLogger - Add Payer Button clicked
+2020-04-01 13:05:43,634 [main] INFO devpinoyLogger - Edifecs Payer clicked
+2020-04-01 13:05:44,889 [main] INFO devpinoyLogger - Connect button clicked
+2020-04-01 13:05:46,730 [main] INFO devpinoyLogger - Confirm  Connect button clicked
+2020-04-01 14:35:23,105 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:35:34,546 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 14:35:34,553 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 14:35:34,585 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:35:45,787 [main] INFO devpinoyLogger - App opened
+2020-04-01 14:35:52,162 [main] INFO devpinoyLogger - Lets Get Started clicked
+2020-04-01 14:35:52,247 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:36:06,173 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 14:36:06,177 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 14:36:06,183 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:36:17,782 [main] INFO devpinoyLogger - App opened
+2020-04-01 14:36:23,982 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 14:36:31,131 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 14:36:34,099 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 14:36:36,652 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 14:36:36,653 [main] INFO devpinoyLogger - Login not successful
+2020-04-01 14:36:36,662 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:36:48,695 [main] INFO devpinoyLogger - App opened
+2020-04-01 14:36:54,611 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 14:37:01,906 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 14:37:04,851 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 14:37:07,405 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 14:37:10,410 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 14:37:10,465 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:37:22,372 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 14:37:22,377 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 14:37:22,383 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:37:35,919 [main] INFO devpinoyLogger - App opened
+2020-04-01 14:37:41,971 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 14:37:48,517 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 14:37:51,543 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 14:37:52,447 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 14:37:57,880 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 14:37:59,644 [main] INFO devpinoyLogger - Timeline clicked
+2020-04-01 14:38:06,818 [main] INFO devpinoyLogger - Skip button clicked
+2020-04-01 14:38:07,871 [main] INFO devpinoyLogger - Health history clicked
+2020-04-01 14:38:11,997 [main] INFO devpinoyLogger - Skip button clicked
+2020-04-01 14:38:13,306 [main] INFO devpinoyLogger - Claims drop down button clicked
+2020-04-01 14:38:14,400 [main] INFO devpinoyLogger - View Claims is clicked
+2020-04-01 14:38:15,721 [main] INFO devpinoyLogger - Magret is Displayed
+2020-04-01 14:38:15,796 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:38:30,169 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 14:38:30,172 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 14:38:30,178 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:38:44,417 [main] INFO devpinoyLogger - App opened
+2020-04-01 14:38:50,405 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 14:38:54,380 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 14:38:57,662 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 14:39:03,010 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 14:39:09,751 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 14:39:11,108 [main] INFO devpinoyLogger - Virtual Assistance Clicked
+2020-04-01 14:39:16,739 [main] INFO devpinoyLogger - Successfully laaunched Virtual Assistancel
+2020-04-01 14:39:17,507 [main] INFO devpinoyLogger - Enter text successful
+2020-04-01 14:39:18,439 [main] INFO devpinoyLogger - Send key clicked
+2020-04-01 14:39:24,062 [main] INFO devpinoyLogger - Yes button clicked
+2020-04-01 14:39:31,757 [main] INFO devpinoyLogger - Yes button clicked again
+2020-04-01 14:39:40,983 [main] INFO devpinoyLogger - Lab Data clicked
+2020-04-01 14:40:11,431 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:40:24,714 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 14:40:24,719 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 14:40:24,721 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:40:41,463 [main] INFO devpinoyLogger - App opened
+2020-04-01 14:40:48,770 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 14:40:55,663 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 14:41:01,426 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 14:41:04,597 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 14:41:11,219 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 14:41:12,553 [main] INFO devpinoyLogger - Share button clicked
+2020-04-01 14:41:14,348 [main] INFO devpinoyLogger - Add to contact button clicked
+2020-04-01 14:41:15,551 [main] INFO devpinoyLogger - Yes, I understand button clicked
+2020-04-01 14:41:15,575 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:41:31,062 [main] DEBUG devpinoyLogger - Config file loaded !!!
+2020-04-01 14:41:31,065 [main] DEBUG devpinoyLogger - OR file loaded !!!
+2020-04-01 14:41:31,067 [main] DEBUG devpinoyLogger - BASE URL/Users/netowsolutions/Documents/Parallelscore/Mobile-Automation/mc-appium
+2020-04-01 14:41:46,212 [main] INFO devpinoyLogger - App opened
+2020-04-01 14:41:53,467 [main] INFO devpinoyLogger - I already have an account clicked
+2020-04-01 14:41:57,312 [main] INFO devpinoyLogger - user email passed into text box
+2020-04-01 14:42:03,498 [main] INFO devpinoyLogger - user password passed into text box
+2020-04-01 14:42:06,142 [main] INFO devpinoyLogger - log in button clicked
+2020-04-01 14:42:13,365 [main] INFO devpinoyLogger - Login is successful
+2020-04-01 14:42:14,692 [main] INFO devpinoyLogger - Make Connection button clicked
+2020-04-01 14:42:16,151 [main] INFO devpinoyLogger - Payer Button clicked
+2020-04-01 14:42:18,360 [main] INFO devpinoyLogger - Add Payer Button clicked
+2020-04-01 14:42:19,128 [main] INFO devpinoyLogger - Edifecs Payer clicked
+2020-04-01 14:42:20,449 [main] INFO devpinoyLogger - Connect button clicked
+2020-04-01 14:42:22,063 [main] INFO devpinoyLogger - Confirm  Connect button clicked

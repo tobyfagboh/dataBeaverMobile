@@ -1,0 +1,18 @@
+2018-11-28 17:08:33,289 [main] INFO devpinoyLogger - App opened
+2018-11-28 17:08:42,031 [main] INFO devpinoyLogger - user email passed into text box
+2018-11-28 17:08:48,274 [main] INFO devpinoyLogger - user password passed into text box
+2018-11-28 17:08:49,016 [main] INFO devpinoyLogger - login button clicked
+2018-11-28 17:21:47,928 [main] DEBUG log4j_demo - This is debug
+2018-11-28 17:21:47,937 [main] INFO log4j_demo - This is info
+2018-11-28 17:21:47,937 [main] WARN log4j_demo - This is warn
+2018-11-28 17:21:47,937 [main] ERROR log4j_demo - This is error
+2018-11-28 17:21:47,938 [main] FATAL log4j_demo - This is fatal
+2018-11-28 17:26:26,242 [main] DEBUG log4j_demo - This is debug
+2018-11-28 17:26:26,247 [main] INFO log4j_demo - This is info
+2018-11-28 17:26:26,269 [main] WARN log4j_demo - This is warn
+2018-11-28 17:26:26,270 [main] ERROR log4j_demo - This is error
+2018-11-28 17:26:26,270 [main] FATAL log4j_demo - This is fatal
+2018-11-28 17:33:34,485 [main] INFO devpinoyLogger - App opened
+2018-11-28 17:35:27,276 [main] INFO devpinoyLogger - App opened
+2018-11-28 17:37:04,669 [main] INFO devpinoyLogger - App opened
+2018-11-28 18:02:59,146 [main] INFO devpinoyLogger - App opened

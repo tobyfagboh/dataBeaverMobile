@@ -1,0 +1,448 @@
+2018-11-28 18:02:59,146 - devpinoyLogger -INFO - App opened
+2018-11-28 18:10:50,470 - devpinoyLogger -INFO - App opened
+2018-11-28 18:16:17,427 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:16:17,430 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:17:09,086 - devpinoyLogger -INFO - App opened
+2018-11-28 18:17:18,673 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 18:17:25,462 - devpinoyLogger -INFO - user password passed into text box
+2018-11-28 18:17:26,354 - devpinoyLogger -INFO - login button clicked
+2018-11-28 18:19:35,790 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:19:35,795 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:20:38,073 - devpinoyLogger -INFO - App opened
+2018-11-28 18:21:03,099 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 18:21:33,483 - devpinoyLogger -INFO - user password passed into text box
+2018-11-28 18:21:36,930 - devpinoyLogger -INFO - login button clicked
+2018-11-28 18:23:54,890 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:23:54,895 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:24:28,442 - devpinoyLogger -INFO - App opened
+2018-11-28 18:24:35,792 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 18:24:42,066 - devpinoyLogger -INFO - user password passed into text box
+2018-11-28 18:24:42,820 - devpinoyLogger -INFO - login button clicked
+2018-11-28 18:27:36,141 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:27:36,147 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:28:47,130 - devpinoyLogger -INFO - App opened
+2018-11-28 18:29:02,987 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 18:29:10,040 - devpinoyLogger -INFO - user password passed into text box
+2018-11-28 18:29:10,901 - devpinoyLogger -INFO - login button clicked
+2018-11-28 18:45:23,526 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:45:23,531 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:46:05,357 - devpinoyLogger -INFO - App opened
+2018-11-28 18:46:14,484 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 18:48:17,399 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:48:17,405 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:48:55,477 - devpinoyLogger -INFO - App opened
+2018-11-28 18:49:03,794 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 18:49:10,493 - devpinoyLogger -INFO - user password passed into text box
+2018-11-28 18:49:11,234 - devpinoyLogger -INFO - login button clicked
+2018-11-28 18:56:21,131 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:56:21,137 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 18:56:55,252 - devpinoyLogger -INFO - App opened
+2018-11-28 18:57:02,490 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 18:57:08,602 - devpinoyLogger -INFO - user password passed into text box
+2018-11-28 18:57:09,332 - devpinoyLogger -INFO - login button clicked
+2018-11-28 18:57:16,359 - devpinoyLogger -DEBUG - Log in successfully executed
+2018-11-28 19:01:06,645 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 19:01:06,650 - devpinoyLogger -DEBUG - Config file loaded !!!
+2018-11-28 19:01:33,476 - devpinoyLogger -INFO - App opened
+2018-11-28 19:01:40,512 - devpinoyLogger -INFO - user email passed into text box
+2018-11-28 19:01:46,615 - devpinoyLogger -INFO - user password passed into text box
+2018-11-28 19:01:47,326 - devpinoyLogger -INFO - login button clicked
+2019-11-15 16:00:18,002 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-15 16:00:18,008 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-15 16:00:30,620 - devpinoyLogger -INFO - App opened
+2019-11-15 16:00:31,254 - devpinoyLogger -INFO - user email passed into text box
+2019-11-15 16:00:32,100 - devpinoyLogger -INFO - user password passed into text box
+2019-11-15 16:00:32,738 - devpinoyLogger -INFO - login button clicked
+2019-11-17 08:10:59,491 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:10:59,494 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:11:10,820 - devpinoyLogger -INFO - App opened
+2019-11-17 08:11:11,897 - devpinoyLogger -INFO - user email passed into text box
+2019-11-17 08:11:13,042 - devpinoyLogger -INFO - user password passed into text box
+2019-11-17 08:11:13,674 - devpinoyLogger -INFO - login button clicked
+2019-11-17 08:14:59,530 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:14:59,534 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:15:10,626 - devpinoyLogger -INFO - App opened
+2019-11-17 08:15:11,690 - devpinoyLogger -INFO - user email passed into text box
+2019-11-17 08:15:12,838 - devpinoyLogger -INFO - user password passed into text box
+2019-11-17 08:15:13,448 - devpinoyLogger -INFO - login button clicked
+2019-11-17 08:37:03,183 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:37:03,188 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:37:13,835 - devpinoyLogger -INFO - App opened
+2019-11-17 08:37:14,892 - devpinoyLogger -INFO - user email passed into text box
+2019-11-17 08:37:16,089 - devpinoyLogger -INFO - user password passed into text box
+2019-11-17 08:37:16,804 - devpinoyLogger -INFO - login button clicked
+2019-11-17 08:37:56,079 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:37:56,084 - devpinoyLogger -DEBUG - Config file loaded !!!
+2019-11-17 08:38:06,565 - devpinoyLogger -INFO - App opened
+2019-11-17 08:38:07,627 - devpinoyLogger -INFO - user email passed into text box
+2019-11-17 08:38:08,776 - devpinoyLogger -INFO - user password passed into text box
+2019-11-17 08:38:09,432 - devpinoyLogger -INFO - login button clicked
+2019-11-17 08:52:02,760 - devpinoyLogger -INFO - App opened
+2019-11-17 08:56:32,562 - devpinoyLogger -INFO - App opened
+2019-11-17 09:16:03,569 - devpinoyLogger -INFO - App opened
+2019-11-17 09:18:00,306 - devpinoyLogger -INFO - App opened
+2019-11-17 09:21:22,724 - devpinoyLogger -INFO - App opened
+2019-11-17 09:28:59,165 - devpinoyLogger -INFO - App opened
+2019-11-17 09:36:07,692 - devpinoyLogger -INFO - App opened
+2019-11-17 09:46:33,880 - devpinoyLogger -INFO - App opened
+2019-11-17 09:57:18,601 - devpinoyLogger -INFO - App opened
+2019-11-17 10:00:22,471 - devpinoyLogger -INFO - App opened
+2019-11-17 10:01:37,374 - devpinoyLogger -INFO - App opened
+2019-11-17 10:09:32,792 - devpinoyLogger -INFO - App opened
+2019-11-18 11:31:08,080 - devpinoyLogger -INFO - App opened
+2019-11-18 11:38:51,777 - devpinoyLogger -INFO - App opened
+2019-11-18 11:40:26,189 - devpinoyLogger -INFO - App opened
+2019-11-18 11:48:27,918 - devpinoyLogger -INFO - App opened
+2019-11-18 11:50:35,389 - devpinoyLogger -INFO - App opened
+2019-11-18 12:27:33,589 - devpinoyLogger -INFO - App opened
+2019-11-18 12:29:27,944 - devpinoyLogger -INFO - App opened
+2019-11-18 12:43:38,078 - devpinoyLogger -INFO - App opened
+2019-11-18 12:52:41,963 - devpinoyLogger -INFO - App opened
+2019-11-18 13:06:41,642 - devpinoyLogger -INFO - App opened
+2019-11-18 13:23:58,247 - devpinoyLogger -INFO - App opened
+2019-11-18 13:25:09,232 - devpinoyLogger -INFO - App opened
+2019-11-18 15:08:22,960 - devpinoyLogger -INFO - App opened
+2019-11-18 15:17:14,812 - devpinoyLogger -INFO - App opened
+2019-11-19 15:19:32,790 - devpinoyLogger -INFO - App opened
+2019-11-19 15:23:35,660 - devpinoyLogger -INFO - App opened
+2019-12-20 09:54:07,253 - devpinoyLogger -INFO - App opened
+2019-12-23 14:57:29,174 - devpinoyLogger -INFO - App opened
+2020-01-24 09:05:09,387 - devpinoyLogger -INFO - App opened
+2020-01-24 09:07:37,781 - devpinoyLogger -INFO - App opened
+2020-01-24 09:51:39,508 - devpinoyLogger -INFO - App opened
+2020-01-24 11:07:55,633 - devpinoyLogger -INFO - App opened
+2020-01-26 16:09:59,747 - devpinoyLogger -INFO - App opened
+2020-01-26 16:10:38,275 - devpinoyLogger -INFO - App opened
+2020-01-26 16:11:27,110 - devpinoyLogger -INFO - App opened
+2020-01-26 16:12:18,514 - devpinoyLogger -INFO - App opened
+2020-01-27 11:33:26,973 - devpinoyLogger -INFO - App opened
+2020-01-27 11:33:41,982 - devpinoyLogger -INFO - user email passed into text box
+2020-01-27 12:45:13,349 - devpinoyLogger -INFO - App opened
+2020-01-27 12:46:38,359 - devpinoyLogger -INFO - App opened
+2020-01-27 12:53:11,756 - devpinoyLogger -INFO - App opened
+2020-01-27 13:09:56,156 - devpinoyLogger -INFO - App opened
+2020-01-27 14:00:08,009 - devpinoyLogger -INFO - App opened
+2020-01-27 14:01:13,770 - devpinoyLogger -INFO - App opened
+2020-01-28 12:43:33,216 - devpinoyLogger -INFO - App opened
+2020-01-28 12:46:22,253 - devpinoyLogger -INFO - App opened
+2020-01-28 12:53:04,910 - devpinoyLogger -INFO - App opened
+2020-01-28 13:01:57,108 - devpinoyLogger -INFO - App opened
+2020-01-28 13:08:50,856 - devpinoyLogger -INFO - App opened
+2020-01-28 13:28:01,655 - devpinoyLogger -INFO - App opened
+2020-01-28 13:28:18,040 - devpinoyLogger -INFO - user email passed into text box
+2020-01-28 13:33:27,340 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:33:27,344 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:33:41,104 - devpinoyLogger -INFO - App opened
+2020-01-28 13:33:56,494 - devpinoyLogger -INFO - user email passed into text box
+2020-01-28 13:35:08,653 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:35:08,657 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:35:25,452 - devpinoyLogger -INFO - App opened
+2020-01-28 13:35:41,702 - devpinoyLogger -INFO - user email passed into text box
+2020-01-28 13:45:17,151 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:45:17,158 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:45:32,661 - devpinoyLogger -INFO - App opened
+2020-01-28 13:45:48,689 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 13:52:39,965 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:52:39,971 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:52:56,780 - devpinoyLogger -INFO - App opened
+2020-01-28 13:53:01,420 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 13:54:53,991 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:54:53,995 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 13:55:09,205 - devpinoyLogger -INFO - App opened
+2020-01-28 13:55:14,117 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 14:01:33,431 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:01:33,436 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:01:46,861 - devpinoyLogger -INFO - App opened
+2020-01-28 14:01:51,876 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 14:03:20,042 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:03:20,049 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:03:34,654 - devpinoyLogger -INFO - App opened
+2020-01-28 14:03:38,661 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 14:10:22,190 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:10:22,196 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:10:37,558 - devpinoyLogger -INFO - App opened
+2020-01-28 14:10:40,997 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 14:13:49,794 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:13:49,799 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:14:03,004 - devpinoyLogger -INFO - App opened
+2020-01-28 14:14:06,660 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 14:48:20,290 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:48:20,296 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:48:34,453 - devpinoyLogger -INFO - App opened
+2020-01-28 14:48:38,864 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-28 14:48:42,532 - devpinoyLogger -INFO - user email passed into text box
+2020-01-28 14:48:43,868 - devpinoyLogger -INFO - user password passed into text box
+2020-01-28 14:53:58,994 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:53:59,002 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:54:14,757 - devpinoyLogger -INFO - App opened
+2020-01-28 14:55:46,647 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:55:46,655 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:56:00,857 - devpinoyLogger -INFO - App opened
+2020-01-28 14:57:33,546 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:57:33,553 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:57:48,910 - devpinoyLogger -INFO - App opened
+2020-01-28 14:59:44,456 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 14:59:44,464 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 15:00:00,961 - devpinoyLogger -INFO - App opened
+2020-01-28 15:06:08,235 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 15:06:08,241 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-28 15:06:24,337 - devpinoyLogger -INFO - App opened
+2020-01-28 15:07:19,163 - devpinoyLogger -INFO - App opened
+2020-01-28 21:31:59,325 - devpinoyLogger -INFO - App opened
+2020-01-29 05:06:35,749 - devpinoyLogger -INFO - App opened
+2020-01-29 05:15:17,491 - devpinoyLogger -INFO - App opened
+2020-01-29 05:17:51,539 - devpinoyLogger -INFO - App opened
+2020-01-29 05:19:28,390 - devpinoyLogger -INFO - App opened
+2020-01-29 05:22:30,653 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:22:30,657 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:22:45,134 - devpinoyLogger -INFO - App opened
+2020-01-29 05:38:04,779 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:38:04,788 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:38:17,498 - devpinoyLogger -INFO - App opened
+2020-01-29 05:52:54,316 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:52:54,320 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:53:11,673 - devpinoyLogger -INFO - App opened
+2020-01-29 05:54:13,475 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:54:13,482 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 05:54:28,423 - devpinoyLogger -INFO - App opened
+2020-01-29 06:11:30,625 - devpinoyLogger -INFO - App opened
+2020-01-29 06:12:14,074 - devpinoyLogger -INFO - App opened
+2020-01-29 06:14:41,125 - devpinoyLogger -INFO - App opened
+2020-01-29 06:33:13,280 - devpinoyLogger -INFO - App opened
+2020-01-29 07:48:01,465 - devpinoyLogger -INFO - App opened
+2020-01-29 07:53:06,665 - devpinoyLogger -INFO - App opened
+2020-01-29 07:56:22,214 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 07:56:22,218 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 07:56:38,412 - devpinoyLogger -INFO - App opened
+2020-01-29 07:57:50,813 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 07:57:50,818 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 07:58:06,045 - devpinoyLogger -INFO - App opened
+2020-01-29 08:01:31,225 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:01:31,233 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:01:51,649 - devpinoyLogger -INFO - App opened
+2020-01-29 08:20:27,254 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:20:27,259 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:20:45,412 - devpinoyLogger -INFO - App opened
+2020-01-29 08:22:05,569 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:22:05,574 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:22:22,301 - devpinoyLogger -INFO - App opened
+2020-01-29 08:24:18,554 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:24:18,558 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:24:35,294 - devpinoyLogger -INFO - App opened
+2020-01-29 08:25:56,410 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:25:56,414 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:26:12,847 - devpinoyLogger -INFO - App opened
+2020-01-29 08:26:23,280 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 08:27:11,509 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:27:11,513 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:27:27,447 - devpinoyLogger -INFO - App opened
+2020-01-29 08:30:47,215 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:30:47,219 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:31:04,826 - devpinoyLogger -INFO - App opened
+2020-01-29 08:31:15,285 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 08:31:20,021 - devpinoyLogger -INFO - user email passed into text box
+2020-01-29 08:31:21,575 - devpinoyLogger -INFO - user password passed into text box
+2020-01-29 08:34:53,907 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:34:53,910 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:35:10,150 - devpinoyLogger -INFO - App opened
+2020-01-29 08:35:20,560 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 08:35:27,138 - devpinoyLogger -INFO - user email passed into text box
+2020-01-29 08:35:29,486 - devpinoyLogger -INFO - user password passed into text box
+2020-01-29 08:37:00,704 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 08:37:00,709 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 08:37:17,753 - devpinoyLogger -INFO - App opened
+2020-01-29 08:37:28,207 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 08:37:33,008 - devpinoyLogger -INFO - user email passed into text box
+2020-01-29 08:37:34,424 - devpinoyLogger -INFO - user password passed into text box
+2020-01-29 11:43:03,266 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 11:43:03,271 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 11:43:21,346 - devpinoyLogger -INFO - App opened
+2020-01-29 11:43:33,921 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 11:43:43,028 - devpinoyLogger -INFO - user email passed into text box
+2020-01-29 11:43:46,479 - devpinoyLogger -INFO - user password passed into text box
+2020-01-29 11:50:02,671 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 11:50:02,679 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 11:50:20,449 - devpinoyLogger -INFO - App opened
+2020-01-29 11:50:32,885 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 11:50:39,765 - devpinoyLogger -INFO - user email passed into text box
+2020-01-29 11:50:42,743 - devpinoyLogger -INFO - user password passed into text box
+2020-01-29 11:50:45,072 - devpinoyLogger -INFO - log in button clicked
+2020-01-29 11:50:45,072 - devpinoyLogger -INFO - Login is successful
+2020-01-29 11:55:52,659 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 11:55:52,664 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 11:56:09,301 - devpinoyLogger -INFO - App opened
+2020-01-29 11:56:19,759 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 11:56:26,686 - devpinoyLogger -INFO - user email passed into text box
+2020-01-29 11:56:29,626 - devpinoyLogger -INFO - user password passed into text box
+2020-01-29 11:56:32,139 - devpinoyLogger -INFO - log in button clicked
+2020-01-29 12:03:13,832 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:03:13,837 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:03:30,043 - devpinoyLogger -INFO - App opened
+2020-01-29 12:05:27,567 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:05:27,573 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:05:47,100 - devpinoyLogger -INFO - App opened
+2020-01-29 12:07:50,675 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:07:50,683 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:08:06,808 - devpinoyLogger -INFO - App opened
+2020-01-29 12:09:05,615 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:09:05,619 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:09:22,047 - devpinoyLogger -INFO - App opened
+2020-01-29 12:10:57,811 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:10:57,816 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:11:17,799 - devpinoyLogger -INFO - App opened
+2020-01-29 12:14:41,187 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:14:41,194 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:14:59,518 - devpinoyLogger -INFO - App opened
+2020-01-29 12:18:35,167 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:18:35,173 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:18:55,017 - devpinoyLogger -INFO - App opened
+2020-01-29 12:58:06,415 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 12:58:06,421 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 12:58:24,753 - devpinoyLogger -INFO - App opened
+2020-01-29 12:58:34,426 - devpinoyLogger -INFO - I already have an account clicked
+2020-01-29 12:58:41,112 - devpinoyLogger -INFO - user email passed into text box
+2020-01-29 12:58:44,073 - devpinoyLogger -INFO - user password passed into text box
+2020-01-29 12:58:46,474 - devpinoyLogger -INFO - log in button clicked
+2020-01-29 12:58:54,024 - devpinoyLogger -INFO - Login is successful
+2020-01-29 13:39:30,465 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-01-29 13:39:30,472 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-01-29 13:39:48,108 - devpinoyLogger -INFO - App opened
+2020-02-03 11:31:09,050 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 11:31:09,054 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 11:31:26,668 - devpinoyLogger -INFO - App opened
+2020-02-03 11:31:31,641 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 11:31:36,379 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 11:31:39,352 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 11:31:40,116 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 11:35:41,155 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 11:35:41,162 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 11:35:58,049 - devpinoyLogger -INFO - App opened
+2020-02-03 11:36:03,265 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 11:36:08,009 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 11:36:11,095 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 11:36:11,901 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 11:36:11,901 - devpinoyLogger -INFO - Login not successful
+2020-02-03 11:36:28,183 - devpinoyLogger -INFO - App opened
+2020-02-03 11:41:15,091 - devpinoyLogger -INFO - App opened
+2020-02-03 11:41:21,102 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 11:41:25,809 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 11:41:28,856 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 11:41:31,460 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 11:41:31,461 - devpinoyLogger -INFO - Login not successful
+2020-02-03 11:41:47,487 - devpinoyLogger -INFO - App opened
+2020-02-03 11:46:50,069 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 11:46:50,076 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 11:47:06,398 - devpinoyLogger -INFO - App opened
+2020-02-03 11:47:11,511 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 11:47:16,254 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 11:47:19,932 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 11:47:22,516 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 11:47:22,517 - devpinoyLogger -INFO - Login not successful
+2020-02-03 11:47:39,902 - devpinoyLogger -INFO - App opened
+2020-02-03 11:47:45,260 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 11:47:50,164 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 11:47:53,643 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 11:47:56,201 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 11:47:56,202 - devpinoyLogger -INFO - Login is successful
+2020-02-03 12:25:59,473 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 12:25:59,479 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 12:26:15,788 - devpinoyLogger -INFO - App opened
+2020-02-03 12:26:22,064 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:26:26,813 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:26:29,952 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:26:30,695 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:26:30,696 - devpinoyLogger -INFO - Login not successful
+2020-02-03 12:26:46,980 - devpinoyLogger -INFO - App opened
+2020-02-03 12:26:54,309 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:26:59,034 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:27:02,359 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:27:04,803 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:27:04,806 - devpinoyLogger -INFO - Login is successful
+2020-02-03 12:31:59,867 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 12:31:59,872 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 12:32:16,983 - devpinoyLogger -INFO - App opened
+2020-02-03 12:32:24,176 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:32:28,913 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:32:31,960 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:32:32,854 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:32:32,854 - devpinoyLogger -INFO - Login not successful
+2020-02-03 12:32:50,229 - devpinoyLogger -INFO - App opened
+2020-02-03 12:32:55,203 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:32:59,951 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:33:02,952 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:33:03,845 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:33:03,845 - devpinoyLogger -INFO - Login is successful
+2020-02-03 12:38:20,274 - devpinoyLogger -INFO - App opened
+2020-02-03 12:38:34,923 - devpinoyLogger -INFO - App opened
+2020-02-03 12:39:21,222 - devpinoyLogger -INFO - App opened
+2020-02-03 12:39:37,072 - devpinoyLogger -INFO - App opened
+2020-02-03 12:41:42,944 - devpinoyLogger -INFO - App opened
+2020-02-03 12:42:02,114 - devpinoyLogger -INFO - App opened
+2020-02-03 12:43:13,906 - devpinoyLogger -INFO - App opened
+2020-02-03 12:43:30,151 - devpinoyLogger -INFO - App opened
+2020-02-03 12:44:29,698 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 12:44:29,703 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 12:44:48,553 - devpinoyLogger -INFO - App opened
+2020-02-03 12:44:54,871 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:44:59,571 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:45:03,250 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:45:05,758 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:45:05,758 - devpinoyLogger -INFO - Login not successful
+2020-02-03 12:45:22,419 - devpinoyLogger -INFO - App opened
+2020-02-03 12:45:28,295 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:45:33,024 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:45:36,065 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:45:36,918 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:45:36,918 - devpinoyLogger -INFO - Login is successful
+2020-02-03 12:46:30,160 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 12:46:30,165 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 12:46:46,520 - devpinoyLogger -INFO - App opened
+2020-02-03 12:46:54,724 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:46:59,420 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:47:02,817 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:47:05,310 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:47:05,311 - devpinoyLogger -INFO - Login not successful
+2020-02-03 12:47:21,628 - devpinoyLogger -INFO - App opened
+2020-02-03 12:47:26,820 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:47:31,608 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:47:34,709 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:47:35,454 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:47:35,454 - devpinoyLogger -INFO - Login is successful
+2020-02-03 12:49:59,242 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 12:49:59,248 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 12:50:14,373 - devpinoyLogger -INFO - App opened
+2020-02-03 12:50:20,016 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:50:24,744 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:50:27,710 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:50:30,162 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:50:30,162 - devpinoyLogger -INFO - Login not successful
+2020-02-03 12:50:46,391 - devpinoyLogger -INFO - App opened
+2020-02-03 12:50:57,245 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 12:51:03,876 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 12:51:07,012 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 12:51:09,614 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 12:51:09,614 - devpinoyLogger -INFO - Login is successful
+2020-02-03 13:06:02,147 - devpinoyLogger -INFO - App opened
+2020-02-03 13:06:20,205 - devpinoyLogger -INFO - App opened
+2020-02-03 13:08:26,287 - devpinoyLogger -INFO - App opened
+2020-02-03 13:08:41,552 - devpinoyLogger -INFO - App opened
+2020-02-03 13:10:47,133 - devpinoyLogger -INFO - App opened
+2020-02-03 13:11:21,702 - devpinoyLogger -INFO - App opened
+2020-02-03 13:13:56,634 - devpinoyLogger -INFO - App opened
+2020-02-03 13:14:28,533 - devpinoyLogger -INFO - App opened
+2020-02-03 13:15:52,175 - devpinoyLogger -DEBUG - Config file loaded !!!
+2020-02-03 13:15:52,182 - devpinoyLogger -DEBUG - OR file loaded !!!
+2020-02-03 13:16:10,271 - devpinoyLogger -INFO - App opened
+2020-02-03 13:16:15,079 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 13:16:20,036 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 13:16:23,280 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 13:16:25,785 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 13:16:25,785 - devpinoyLogger -INFO - Login not successful
+2020-02-03 13:16:44,106 - devpinoyLogger -INFO - App opened
+2020-02-03 13:16:51,844 - devpinoyLogger -INFO - I already have an account clicked
+2020-02-03 13:16:56,584 - devpinoyLogger -INFO - user email passed into text box
+2020-02-03 13:17:00,051 - devpinoyLogger -INFO - user password passed into text box
+2020-02-03 13:17:02,612 - devpinoyLogger -INFO - log in button clicked
+2020-02-03 13:17:02,613 - devpinoyLogger -INFO - Login is successful
+2020-02-03 13:20:06,798 - devpinoyLogger -INFO - App opened
+2020-02-03 13:20:25,374 - devpinoyLogger -INFO - App opened

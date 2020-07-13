@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Sign Up(failed)">
+    <classes>
+      <class name="appiumTest.TestCase.signup">
+        <methods>
+          <include name="setUp"/>
+          <include name="signupTest"/>
+          <include name="TearDown"/>
+          <include name="Capabilities"/>
+        </methods>
+      </class> <!-- appiumTest.TestCase.signup -->
+    </classes>
+  </test> <!-- Sign Up(failed) -->
+  <test thread-count="5" name="Virtual Assistance(failed)">
+    <classes>
+      <class name="appiumTest.TestCase.virtualAssistance">
+        <methods>
+          <include name="setUp"/>
+          <include name="TearDown"/>
+          <include name="VirtualAssistance"/>
+          <include name="Capabilities"/>
+        </methods>
+      </class> <!-- appiumTest.TestCase.virtualAssistance -->
+    </classes>
+  </test> <!-- Virtual Assistance(failed) -->
+  <test thread-count="5" name="Connection(failed)">
+    <classes>
+      <class name="appiumTest.TestCase.connection">
+        <methods>
+          <include name="payerConnection"/>
+          <include name="setUp"/>
+          <include name="TearDown"/>
+          <include name="Capabilities"/>
+        </methods>
+      </class> <!-- appiumTest.TestCase.connection -->
+    </classes>
+  </test> <!-- Connection(failed) -->
+</suite> <!-- Failed suite [Suite] -->
